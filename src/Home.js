@@ -14,20 +14,46 @@ function Home() {
 
         <div className="home__row">
           <Product
+            id={1234555}
             title="samsumg mobile phone"
             price={499}
             rating={5}
             image="https://images-na.ssl-images-amazon.com/images/I/71OxJeyywSL._SY879_.jpg"
           />
-          <Product />
+          <Product
+            title="samsumg mobile phone"
+            price={499}
+            rating={5}
+            image="https://images-na.ssl-images-amazon.com/images/I/71OxJeyywSL._SY879_.jpg"
+          />
         </div>
         <div className="home__row">
-          <Product />
-          <Product />
-          <Product />
+          <Product
+            title="samsumg mobile phone"
+            price={499}
+            rating={5}
+            image="https://images-na.ssl-images-amazon.com/images/I/71OxJeyywSL._SY879_.jpg"
+          />
+          <Product
+            title="samsumg mobile phone"
+            price={499}
+            rating={5}
+            image="https://images-na.ssl-images-amazon.com/images/I/71OxJeyywSL._SY879_.jpg"
+          />
+          <Product
+            title="samsumg mobile phone"
+            price={499}
+            rating={5}
+            image="https://images-na.ssl-images-amazon.com/images/I/71OxJeyywSL._SY879_.jpg"
+          />
         </div>
         <div className="home__row">
-          <Product />
+          <Product
+            title="samsumg mobile phone"
+            price={499}
+            rating={5}
+            image="https://images-na.ssl-images-amazon.com/images/I/71OxJeyywSL._SY879_.jpg"
+          />
         </div>
       </div>
     </div>

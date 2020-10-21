@@ -5,6 +5,10 @@
   padding: 20px;
 }
 
+.checkout__left {
+  flex: 1;
+}
+
 .checkout__ad {
   margin-bottom: 10px;
   width: 100%;

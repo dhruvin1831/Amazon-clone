@@ -45,6 +45,9 @@ function App() {
             <Header />
             <Checkout />
           </Route>
+          <Route path="/payment">
+            <Header />
+          </Route>
           <Route path="/">
             <Header />
             <Home />
